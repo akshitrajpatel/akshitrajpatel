@@ -6,7 +6,7 @@ I am a M.Tech Scholar , Field of Study is Data Analytics, I have an interest in 
 
 🔭 I’m currently working on - OpenCV, Pytorch and NLP based projects
 
-🌱 I’m currently learning - NLP, Pytorch, Tornado based wepApi
+🌱 I’m currently learning - NLP, Pytorch, Tornado based webApi
 
 👯 I’m looking to collaborate on - Deep learning and ML
 
